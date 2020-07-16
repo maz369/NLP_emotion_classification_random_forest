@@ -5,7 +5,6 @@ The code has been tested on Python 3.7.1, Anaconda (4.7)
 The concept of n-gram has been utilized and a random forest classifier has been trained for the classification. This implementation includes grid search for tuning hyperparameters.
 This is an early implementation of a series of my work on text classification. Using n-gram is not the best available method but it can be a good starting point.
 
-
 # Test
 - Create a virtual environment with Anaconda:  conda create -n env_name python=3.7 (Python 3 is compatible with packages)
 - Activate the environment: activate env_name

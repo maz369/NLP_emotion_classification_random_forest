@@ -1,6 +1,6 @@
 # NLP_emotion_classification_random_forest
 This repository contains jupyter notebook implementation for classifying plain text into 5 categories of neutral, happiness, worry, hate and anger. The data set includes 47288 tweets scrapped from twitter.    
-The code has been tested on Python 3.7.1, Anaconda (4.7) 
+The code has been tested on Python 3.7.1, Anaconda (4.7)   
 
 The concept of n-gram has been utilized and a random forest classifier has been trained for the classification. This implementation includes grid search for tuning hyperparameters.
 This is an early implementation of a series of my work on text classification. Using n-gram is not the best available method but it can be a good starting point.
